@@ -1,4 +1,6 @@
 # Djagno-To-Do-list-with-user-authentication
-To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
+To Do list app with User Registration, Login and Search features.
 
-![DEMO](../master/Django%20To%20Do%20List%20App.jpg)
+It also have CRUD functionality.
+
+
